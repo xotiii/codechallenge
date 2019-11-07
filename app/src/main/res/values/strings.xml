@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="wishlist_label">Wish List</string>
+    <string name="empty_list_message">Swipe up to refresh.</string>
+    <string name="empty_wishlist_message">You have no wish list.</string>
+    <string name="last_visit_label">Last visited: </string>
+    <string name="wishlist_count_label">Wish list: </string>
+</resources>
