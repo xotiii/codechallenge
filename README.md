@@ -12,7 +12,6 @@ Appetiser Code Challenge
 #### Room Persistence
 Used for saving wish list, as room persistence is 
 great for saving complex and huge amount of data.
-----------------------------------
 
 #### Shared Preferences
 Used for saving Last Visit, as it is easy to use and 
