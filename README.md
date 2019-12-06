@@ -1,5 +1,4 @@
-# Code Challenge
-Appetiser Code Challenge
+# iTunes Store App
 
 ## MVVVM Architecture
 #### MVVM Architecture Pros:
